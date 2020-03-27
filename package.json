@@ -3,7 +3,7 @@
   "version": "0.0.8",
   "dependencies": {
     "oauth": "0.9.12",
-    "easyxml": "1.0.0",
+    "easyxml": "2.0.1",
     "xml2js": "0.4.4",
     "inflect": "0.3.0"
   },
